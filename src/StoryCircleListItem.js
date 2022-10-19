@@ -100,7 +100,7 @@ const styles = StyleSheet.create({
         width: 64
     },
     text: {
-        color:'black',
+        color:'grey',
         marginTop: 3,
         textAlign: "center",
         alignItems: "center",
