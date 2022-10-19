@@ -332,7 +332,7 @@ const styles = StyleSheet.create({
     },
     avatarText: {
         fontWeight: 'bold',
-        color: 'white',
+        color: 'grey',
         paddingLeft: 10,
     },
     closeIconContainer: {
